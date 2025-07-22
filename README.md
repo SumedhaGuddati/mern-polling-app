@@ -110,8 +110,9 @@ npm run dev         # or `npm start` if you prefer
 
 \# In another window, start the client:
 cd client
+npm start
 ```
-Finally..
+Finally Run the combined dev environment
 ```bash
 npm start
 ```
