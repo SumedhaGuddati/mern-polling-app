@@ -84,6 +84,8 @@ cd mern-polling-app
 
 2\. Install dependencies
 
+```bash
+
 \# Server dependencies
 
 cd server
@@ -104,7 +106,7 @@ npm install
 
 Create a .env file in the server folder with:
 
-
+```bash
 
 MONGO\_URI=your\_mongodb\_connection\_string
 
@@ -114,11 +116,7 @@ PORT=5000
 
 4\. Run the app
 
-bash
-
-Copy
-
-Edit
+```bash
 
 \# In one terminal window, start the server:
 
